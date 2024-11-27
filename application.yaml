@@ -10,7 +10,7 @@ spec:
   project: e-commerce-project
   source: 
     path: kubernetes
-    repoURL: "https://github.com/mabusaa/argocd-example-apps.git"
+    repoURL: "https://github.com/jouncato/e-commerce-litethinking.git"
     targetRevision: main
   syncPolicy:
     syncOptions:
